@@ -147,8 +147,7 @@ main {
 .main-footer {
   background: black;
   padding: 2rem;
-  margin-top: 3rem;
-  /* grid-row: 3 / 4; */
+  margin: 1.5rem 0;
   grid-area: footer;
 }
 
